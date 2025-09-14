@@ -11,6 +11,8 @@
   "dependencies": {
     "@supabase/supabase-js": "^2.57.4",
     "@tailwindcss/vite": "^4.1.13",
+    "primeicons": "^7.0.0",
+    "react-icons": "^5.5.0",
     "tailwindcss": "^4.1.13",
     "vue": "^3.5.18",
     "vue-audio-recorder": "^3.0.1"

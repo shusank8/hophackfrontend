@@ -1,5 +1,9 @@
 <template>
-  <div><MessageInputComponent class="" /></div>
+  <div class="p-1 md:p-8">
+    <div class="">
+      <MessageInputComponent />
+    </div>
+  </div>
 </template>
 
 <script setup>
